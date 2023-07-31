@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flight Search</string>
+    <string name="search">Search</string>
+    <string name="depart">Depart</string>
+    <string name="arrive">Arrive</string>
+    <string name="favorite_icon_cont_desc">Save or remove this flight from favorites.</string>
+    <string name="favorite_flights">Favorite flights</string>
+    <string name="no_favorite_flights_yet">No favorite flights yet!</string>
+    <string name="flights_from_code">Flights from %s"</string>
+    <string name="no_results">No results.</string>
+</resources>
